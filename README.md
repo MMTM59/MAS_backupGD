@@ -1,2 +1,2 @@
-# MAS_backupGD
-Monika After Story (MAS) Submod : One-Click Backup to Google Drive
+# Monika After Story (MAS) Submod : One-Click Backup to Google Drive
+Open the pdf file for documentation.
