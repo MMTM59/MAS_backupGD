@@ -47,7 +47,7 @@ async function getAccessToken(oAuth2Client) {
 
 async function uploadFolder(auth) {
     const drive = google.drive({ version: 'v3', auth });
-    const folderId = '1VZ1ZYfj9Tzxk5QjYxWAjfQnj81KKvMPH'; // ID of the folder in Google Drive where you want to upload
+    const folderId = ''; // ID of the folder in Google Drive where you want to upload
     const folderPath = 'C:/Users/syafi/AppData/Roaming/RenPy/Monika After Story'; // Path to the folder you want to upload
 
     // Step 1: List all files in the folder and move them to trash
