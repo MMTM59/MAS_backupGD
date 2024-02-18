@@ -1,7 +1,7 @@
 # Monika After Story (MAS) Submod : One-Click Backup to Google Drive
 I'm using google translate. m(__)m
 I rewrote the mod using a batch file.
-Thanks to ## for writing the original code and for the clear documentation.
+Thanks to Syafiq Lim for writing the original code and for the clear documentation.
 
 # Installation method
 Please follow up to step 19 of the pdf. No node.js required
