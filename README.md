@@ -12,7 +12,7 @@ Unzip the downloaded ZIP and move the folder to the game/Submods folder.
 
 Launch rclone config.bat.
 
-Type n gdrive drive.
+Type n drive drive.
 
 Enter the client_id you created earlier.
 
@@ -28,7 +28,7 @@ The website will open automatically, so please follow the instructions in the PD
 
 Return to the console and press enter twice.
 
-After confirming that gdrive is in Current remotes, close that screen.
+After confirming that drive is in Current remotes, close that screen.
 
 The installation is now complete. Thank you for your hard work.
 
